@@ -1,0 +1,624 @@
+﻿CityID;CityOrigin;Country;State;PostalCode;Region
+1;Aberdeen;United States;South Dakota;57401;Central
+2;Abilene;United States;Texas;79605;Central
+3;Akron;United States;Ohio;44312;East
+4;Albuquerque;United States;New Mexico;87105;West
+5;Alexandria;United States;Virginia;22304;South
+6;Allen;United States;Texas;75002;Central
+7;Allentown;United States;Pennsylvania;18103;East
+8;Altoona;United States;Pennsylvania;16602;East
+9;Amarillo;United States;Texas;79109;Central
+10;Anaheim;United States;California;92804;West
+11;Andover;United States;Massachusetts;1810;East
+12;Ann Arbor;United States;Michigan;48104;Central
+13;Antioch;United States;California;94509;West
+14;Apopka;United States;Florida;32712;South
+15;Apple Valley;United States;California;92307;West
+16;Apple Valley;United States;Minnesota;55124;Central
+17;Appleton;United States;Wisconsin;54915;Central
+18;Arlington;United States;Texas;76017;Central
+19;Arlington;United States;Virginia;22204;South
+20;Arlington Heights;United States;Illinois;60004;Central
+21;Arvada;United States;Colorado;80004;West
+22;Asheville;United States;North Carolina;28806;South
+23;Athens;United States;Georgia;30605;South
+24;Atlanta;United States;Georgia;30318;South
+25;Atlantic City;United States;New Jersey;8401;East
+26;Auburn;United States;Alabama;36830;South
+27;Auburn;United States;New York;13021;East
+28;Auburn;United States;Washington;98002;West
+29;Aurora;United States;Colorado;80013;West
+30;Aurora;United States;Illinois;60505;Central
+31;Austin;United States;Texas;78745;Central
+32;Avondale;United States;Arizona;85323;West
+33;Bakersfield;United States;California;93309;West
+34;Baltimore;United States;Maryland;21215;East
+35;Bangor;United States;Maine;4401;East
+36;Bayonne;United States;New Jersey;7002;East
+37;Baytown;United States;Texas;77520;Central
+38;Beaumont;United States;Texas;77705;Central
+39;Bedford;United States;Texas;76021;Central
+40;Belleville;United States;New Jersey;7109;East
+41;Bellevue;United States;Washington;98006;West
+42;Bellingham;United States;Washington;98226;West
+43;Bethlehem;United States;Pennsylvania;18018;East
+44;Beverly;United States;Massachusetts;1915;East
+45;Billings;United States;Montana;59102;West
+46;Bloomington;United States;Illinois;61701;Central
+47;Bloomington;United States;Indiana;47401;Central
+48;Boca Raton;United States;Florida;33433;South
+49;Boise;United States;Idaho;83704;West
+50;Bolingbrook;United States;Illinois;60440;Central
+51;Bossier City;United States;Louisiana;71111;South
+52;Bowling Green;United States;Kentucky;42104;South
+53;Bowling Green;United States;Ohio;43402;East
+54;Boynton Beach;United States;Florida;33437;South
+55;Brentwood;United States;California;94513;West
+56;Bridgeton;United States;New Jersey;8302;East
+57;Bristol;United States;Connecticut;6010;East
+58;Bristol;United States;Tennessee;37620;South
+59;Broken Arrow;United States;Oklahoma;74012;Central
+60;Broomfield;United States;Colorado;80020;West
+61;Brownsville;United States;Texas;78521;Central
+62;Bryan;United States;Texas;77803;Central
+63;Buffalo;United States;New York;14215;East
+64;Buffalo Grove;United States;Illinois;60089;Central
+65;Bullhead City;United States;Arizona;86442;West
+66;Burbank;United States;California;91505;West
+67;Burlington;United States;Iowa;52601;Central
+68;Burlington;United States;North Carolina;27217;South
+69;Burlington;United States;Vermont;5408;East
+70;Caldwell;United States;Idaho;83605;West
+71;Camarillo;United States;California;93010;West
+72;Cambridge;United States;Massachusetts;2138;East
+73;Canton;United States;Michigan;48187;Central
+74;Carlsbad;United States;New Mexico;88220;West
+75;Carol Stream;United States;Illinois;60188;Central
+76;Carrollton;United States;Texas;75007;Central
+77;Cary;United States;North Carolina;27511;South
+78;Cedar Hill;United States;Texas;75104;Central
+79;Cedar Rapids;United States;Iowa;52402;Central
+80;Champaign;United States;Illinois;61821;Central
+81;Chandler;United States;Arizona;85224;West
+82;Chapel Hill;United States;North Carolina;27514;South
+83;Charlotte;United States;North Carolina;28205;South
+84;Charlottesville;United States;Virginia;22901;South
+85;Chattanooga;United States;Tennessee;37421;South
+86;Chesapeake;United States;Virginia;23320;South
+87;Chester;United States;Pennsylvania;19013;East
+88;Cheyenne;United States;Wyoming;82001;West
+89;Chicago;United States;Illinois;60610;Central
+90;Chicago;United States;Illinois;60623;Central
+91;Chicago;United States;Illinois;60653;Central
+92;Chico;United States;California;95928;West
+93;Chula Vista;United States;California;91911;West
+94;Cincinnati;United States;Ohio;45231;East
+95;Citrus Heights;United States;California;95610;West
+96;Clarksville;United States;Tennessee;37042;South
+97;Cleveland;United States;Ohio;44105;East
+98;Clifton;United States;New Jersey;7011;East
+99;Clinton;United States;Maryland;20735;East
+100;Clovis;United States;New Mexico;88101;West
+101;Coachella;United States;California;92236;West
+102;College Station;United States;Texas;77840;Central
+103;Colorado Springs;United States;Colorado;80906;West
+104;Columbia;United States;Maryland;21044;East
+105;Columbia;United States;Missouri;65203;Central
+106;Columbia;United States;South Carolina;29203;South
+107;Columbia;United States;Tennessee;38401;South
+108;Columbus;United States;Georgia;31907;South
+109;Columbus;United States;Indiana;47201;Central
+110;Columbus;United States;Ohio;43229;East
+111;Commerce City;United States;Colorado;80022;West
+112;Concord;United States;California;94521;West
+113;Concord;United States;New Hampshire;3301;East
+114;Concord;United States;North Carolina;28027;South
+115;Conroe;United States;Texas;77301;Central
+116;Conway;United States;Arkansas;72032;South
+117;Coon Rapids;United States;Minnesota;55433;Central
+118;Coppell;United States;Texas;75019;Central
+119;Coral Gables;United States;Florida;33134;South
+120;Coral Springs;United States;Florida;33065;South
+121;Corpus Christi;United States;Texas;78415;Central
+122;Costa Mesa;United States;California;92627;West
+123;Cottage Grove;United States;Minnesota;55016;Central
+124;Covington;United States;Washington;98042;West
+125;Cranston;United States;Rhode Island;2920;East
+126;Cuyahoga Falls;United States;Ohio;44221;East
+127;Dallas;United States;Texas;75081;Central
+128;Dallas;United States;Texas;75217;Central
+129;Dallas;United States;Texas;75220;Central
+130;Danbury;United States;Connecticut;6810;East
+131;Danville;United States;California;94526;West
+132;Danville;United States;Illinois;61832;Central
+133;Davis;United States;California;95616;West
+134;Daytona Beach;United States;Florida;32114;South
+135;Dearborn;United States;Michigan;48126;Central
+136;Dearborn Heights;United States;Michigan;48127;Central
+137;Decatur;United States;Alabama;35601;South
+138;Decatur;United States;Illinois;62521;Central
+139;Deer Park;United States;Texas;77536;Central
+140;Delray Beach;United States;Florida;33445;South
+141;Deltona;United States;Florida;32725;South
+142;Denver;United States;Colorado;80219;West
+143;Des Moines;United States;Iowa;50315;Central
+144;Des Moines;United States;Washington;98198;West
+145;Des Plaines;United States;Illinois;60016;Central
+146;Detroit;United States;Michigan;48205;Central
+147;Detroit;United States;Michigan;48227;Central
+148;Detroit;United States;Michigan;48234;Central
+149;Dover;United States;Delaware;19901;East
+150;Dover;United States;New Hampshire;3820;East
+151;Draper;United States;Utah;84020;West
+152;Dublin;United States;California;94568;West
+153;Dublin;United States;Ohio;43017;East
+154;Dubuque;United States;Iowa;52001;Central
+155;Durham;United States;North Carolina;27707;South
+156;Eagan;United States;Minnesota;55122;Central
+157;East Orange;United States;New Jersey;7017;East
+158;East Point;United States;Georgia;30344;South
+159;Eau Claire;United States;Wisconsin;54703;Central
+160;Edinburg;United States;Texas;78539;Central
+161;Edmond;United States;Oklahoma;73034;Central
+162;Edmonds;United States;Washington;98026;West
+163;El Cajon;United States;California;92020;West
+164;El Paso;United States;Texas;79907;Central
+165;Elkhart;United States;Indiana;46514;Central
+166;Elmhurst;United States;Illinois;60126;Central
+167;Elyria;United States;Ohio;44035;East
+168;Encinitas;United States;California;92024;West
+169;Englewood;United States;Colorado;80112;West
+170;Escondido;United States;California;92025;West
+171;Eugene;United States;Oregon;97405;West
+172;Evanston;United States;Illinois;60201;Central
+173;Everett;United States;Massachusetts;2149;East
+174;Everett;United States;Washington;98208;West
+175;Fairfield;United States;Connecticut;6824;East
+176;Fairfield;United States;Ohio;45014;East
+177;Fargo;United States;North Dakota;58103;Central
+178;Farmington;United States;New Mexico;87401;West
+179;Fayetteville;United States;Arkansas;72701;South
+180;Fayetteville;United States;North Carolina;28314;South
+181;Florence;United States;Alabama;35630;South
+182;Florence;United States;Kentucky;41042;South
+183;Florence;United States;South Carolina;29501;South
+184;Fort Collins;United States;Colorado;80525;West
+185;Fort Lauderdale;United States;Florida;33311;South
+186;Fort Worth;United States;Texas;76106;Central
+187;Frankfort;United States;Illinois;60423;Central
+188;Franklin;United States;Massachusetts;2038;East
+189;Franklin;United States;Tennessee;37064;South
+190;Franklin;United States;Wisconsin;53132;Central
+191;Freeport;United States;Illinois;61032;Central
+192;Freeport;United States;New York;11520;East
+193;Fremont;United States;Nebraska;68025;Central
+194;Fresno;United States;California;93727;West
+195;Frisco;United States;Texas;75034;Central
+196;Gaithersburg;United States;Maryland;20877;East
+197;Garden City;United States;Kansas;67846;Central
+198;Garland;United States;Texas;75043;Central
+199;Gastonia;United States;North Carolina;28052;South
+200;Georgetown;United States;Kentucky;40324;South
+201;Gilbert;United States;Arizona;85234;West
+202;Gladstone;United States;Missouri;64118;Central
+203;Glendale;United States;Arizona;85301;West
+204;Glenview;United States;Illinois;60025;Central
+205;Goldsboro;United States;North Carolina;27534;South
+206;Grand Island;United States;Nebraska;68801;Central
+207;Grand Prairie;United States;Texas;75051;Central
+208;Grand Rapids;United States;Michigan;49505;Central
+209;Grapevine;United States;Texas;76051;Central
+210;Great Falls;United States;Montana;59405;West
+211;Green Bay;United States;Wisconsin;54302;Central
+212;Greensboro;United States;North Carolina;27405;South
+213;Greenville;United States;North Carolina;27834;South
+214;Greenwood;United States;Indiana;46142;Central
+215;Gresham;United States;Oregon;97030;West
+216;Grove City;United States;Ohio;43123;East
+217;Gulfport;United States;Mississippi;39503;South
+218;Hackensack;United States;New Jersey;7601;East
+219;Hagerstown;United States;Maryland;21740;East
+220;Haltom City;United States;Texas;76117;Central
+221;Hamilton;United States;Ohio;45011;East
+222;Hampton;United States;Virginia;23666;South
+223;Harlingen;United States;Texas;78550;Central
+224;Harrisonburg;United States;Virginia;22801;South
+225;Hattiesburg;United States;Mississippi;39401;South
+226;Helena;United States;Montana;59601;West
+227;Hempstead;United States;New York;11550;East
+228;Henderson;United States;Kentucky;42420;South
+229;Henderson;United States;Nevada;89015;West
+230;Hendersonville;United States;Tennessee;37075;South
+231;Hesperia;United States;California;92345;West
+232;Hialeah;United States;Florida;33012;South
+233;Hickory;United States;North Carolina;28601;South
+234;Highland Park;United States;Illinois;60035;Central
+235;Hillsboro;United States;Oregon;97123;West
+236;Holland;United States;Michigan;49423;Central
+237;Hollywood;United States;Florida;33021;South
+238;Holyoke;United States;Massachusetts;1040;East
+239;Homestead;United States;Florida;33030;South
+240;Hoover;United States;Alabama;35244;South
+241;Hot Springs;United States;Arkansas;71901;South
+242;Houston;United States;Texas;77036;Central
+243;Houston;United States;Texas;77041;Central
+244;Houston;United States;Texas;77070;Central
+245;Houston;United States;Texas;77095;Central
+246;Huntington Beach;United States;California;92646;West
+247;Huntsville;United States;Alabama;35810;South
+248;Huntsville;United States;Texas;77340;Central
+249;Independence;United States;Missouri;64055;Central
+250;Indianapolis;United States;Indiana;46203;Central
+251;Inglewood;United States;California;90301;West
+252;Iowa City;United States;Iowa;52240;Central
+253;Irving;United States;Texas;75061;Central
+254;Jackson;United States;Michigan;49201;Central
+255;Jackson;United States;Mississippi;39212;South
+256;Jackson;United States;Tennessee;38301;South
+257;Jacksonville;United States;Florida;32216;South
+258;Jacksonville;United States;North Carolina;28540;South
+259;Jamestown;United States;New York;14701;East
+260;Jefferson City;United States;Missouri;65109;Central
+261;Johnson City;United States;Tennessee;37604;South
+262;Jonesboro;United States;Arkansas;72401;South
+263;Jupiter;United States;Florida;33458;South
+264;Keller;United States;Texas;76248;Central
+265;Kenner;United States;Louisiana;70065;South
+266;Kenosha;United States;Wisconsin;53142;Central
+267;Kent;United States;Ohio;44240;East
+268;Kent;United States;Washington;98031;West
+269;Kirkwood;United States;Missouri;63122;Central
+270;Kissimmee;United States;Florida;34741;South
+271;Knoxville;United States;Tennessee;37918;South
+272;La Crosse;United States;Wisconsin;54601;Central
+273;La Mesa;United States;California;91941;West
+274;La Porte;United States;Indiana;46350;Central
+275;La Porte;United States;Texas;77571;Central
+276;Lafayette;United States;Indiana;47905;Central
+277;Lafayette;United States;Louisiana;70506;South
+278;Laguna Niguel;United States;California;92677;West
+279;Lake Charles;United States;Louisiana;70601;South
+280;Lake Forest;United States;California;92630;West
+281;Lakeland;United States;Florida;33801;South
+282;Lakeville;United States;Minnesota;55044;Central
+283;Lakewood;United States;California;90712;West
+284;Lakewood;United States;New Jersey;8701;East
+285;Lakewood;United States;Ohio;44107;East
+286;Lancaster;United States;California;93534;West
+287;Lancaster;United States;Ohio;43130;East
+288;Lancaster;United States;Pennsylvania;17602;East
+289;Lansing;United States;Michigan;48911;Central
+290;Laredo;United States;Texas;78041;Central
+291;Las Cruces;United States;New Mexico;88001;West
+292;Las Vegas;United States;Nevada;89115;West
+293;Laurel;United States;Maryland;20707;East
+294;Lawrence;United States;Indiana;46226;Central
+295;Lawrence;United States;Massachusetts;1841;East
+296;Lawton;United States;Oklahoma;73505;Central
+297;Layton;United States;Utah;84041;West
+298;League City;United States;Texas;77573;Central
+299;Lebanon;United States;Tennessee;37087;South
+300;Lehi;United States;Utah;84043;West
+301;Leominster;United States;Massachusetts;1453;East
+302;Lewiston;United States;Idaho;83501;West
+303;Lewiston;United States;Maine;4240;East
+304;Lincoln Park;United States;Michigan;48146;Central
+305;Linden;United States;New Jersey;7036;East
+306;Lindenhurst;United States;New York;11757;East
+307;Little Rock;United States;Arkansas;72209;South
+308;Littleton;United States;Colorado;80122;West
+309;Lodi;United States;California;95240;West
+310;Logan;United States;Utah;84321;West
+311;Long Beach;United States;California;90805;West
+312;Long Beach;United States;New York;11561;East
+313;Longmont;United States;Colorado;80501;West
+314;Longview;United States;Washington;98632;West
+315;Lorain;United States;Ohio;44052;East
+316;Los Angeles;United States;California;90004;West
+317;Los Angeles;United States;California;90008;West
+318;Los Angeles;United States;California;90032;West
+319;Los Angeles;United States;California;90036;West
+320;Los Angeles;United States;California;90045;West
+321;Los Angeles;United States;California;90049;West
+322;Louisville;United States;Colorado;80027;West
+323;Louisville;United States;Kentucky;40214;South
+324;Loveland;United States;Colorado;80538;West
+325;Lowell;United States;Massachusetts;1852;East
+326;Lubbock;United States;Texas;79424;Central
+327;Macon;United States;Georgia;31204;South
+328;Madison;United States;Wisconsin;53711;Central
+329;Malden;United States;Massachusetts;2148;East
+330;Manchester;United States;Connecticut;6040;East
+331;Manhattan;United States;Kansas;66502;Central
+332;Mansfield;United States;Texas;76063;Central
+333;Manteca;United States;California;95336;West
+334;Maple Grove;United States;Minnesota;55369;Central
+335;Margate;United States;Florida;33063;South
+336;Marietta;United States;Georgia;30062;South
+337;Marion;United States;Iowa;52302;Central
+338;Marion;United States;Ohio;43302;East
+339;Marlborough;United States;Massachusetts;1752;East
+340;Marysville;United States;Washington;98270;West
+341;Mason;United States;Ohio;45040;East
+342;Mcallen;United States;Texas;78501;Central
+343;Medford;United States;Oregon;97504;West
+344;Medina;United States;Ohio;44256;East
+345;Melbourne;United States;Florida;32935;South
+346;Memphis;United States;Tennessee;38109;South
+347;Mentor;United States;Ohio;44060;East
+348;Meriden;United States;Connecticut;6450;East
+349;Meridian;United States;Idaho;83642;West
+350;Mesa;United States;Arizona;85204;West
+351;Mesquite;United States;Texas;75150;Central
+352;Miami;United States;Florida;33142;South
+353;Miami;United States;Florida;33178;South
+354;Miami;United States;Florida;33180;South
+355;Middletown;United States;Connecticut;6457;East
+356;Midland;United States;Michigan;48640;Central
+357;Milford;United States;Connecticut;6460;East
+358;Milwaukee;United States;Wisconsin;53209;Central
+359;Minneapolis;United States;Minnesota;55407;Central
+360;Miramar;United States;Florida;33023;South
+361;Mishawaka;United States;Indiana;46544;Central
+362;Mission Viejo;United States;California;92691;West
+363;Missoula;United States;Montana;59801;West
+364;Missouri City;United States;Texas;77489;Central
+365;Mobile;United States;Alabama;36608;South
+366;Modesto;United States;California;95351;West
+367;Monroe;United States;Louisiana;71203;South
+368;Monroe;United States;North Carolina;28110;South
+369;Montebello;United States;California;90640;West
+370;Montgomery;United States;Alabama;36116;South
+371;Moorhead;United States;Minnesota;56560;Central
+372;Moreno Valley;United States;California;92553;West
+373;Morgan Hill;United States;California;95037;West
+374;Morristown;United States;New Jersey;7960;East
+375;Mount Pleasant;United States;Michigan;48858;Central
+376;Mount Pleasant;United States;South Carolina;29464;South
+377;Mount Vernon;United States;New York;10550;East
+378;Murfreesboro;United States;Tennessee;37130;South
+379;Murray;United States;Kentucky;42071;South
+380;Murray;United States;Utah;84107;West
+381;Murrieta;United States;California;92563;West
+382;Muskogee;United States;Oklahoma;74403;Central
+383;Naperville;United States;Illinois;60540;Central
+384;Nashua;United States;New Hampshire;3060;East
+385;Nashville;United States;Tennessee;37211;South
+386;New Albany;United States;Indiana;47150;Central
+387;New Bedford;United States;Massachusetts;2740;East
+388;New Brunswick;United States;New Jersey;8901;East
+389;New Castle;United States;Indiana;47362;Central
+390;New Rochelle;United States;New York;10801;East
+391;New York City;United States;New York;10009;East
+392;New York City;United States;New York;10011;East
+393;New York City;United States;New York;10024;East
+394;New York City;United States;New York;10035;East
+395;Newark;United States;Delaware;19711;East
+396;Newark;United States;Ohio;43055;East
+397;Newport News;United States;Virginia;23602;South
+398;Niagara Falls;United States;New York;14304;East
+399;Noblesville;United States;Indiana;46060;Central
+400;Norfolk;United States;Nebraska;68701;Central
+401;Normal;United States;Illinois;61761;Central
+402;Norman;United States;Oklahoma;73071;Central
+403;North Charleston;United States;South Carolina;29406;South
+404;North Las Vegas;United States;Nevada;89031;West
+405;North Miami;United States;Florida;33161;South
+406;Norwich;United States;Connecticut;6360;East
+407;Oak Park;United States;Illinois;60302;Central
+408;Oak Park;United States;Michigan;48237;Central
+409;Oakland;United States;California;94601;West
+410;Oceanside;United States;California;92054;West
+411;Oceanside;United States;New York;11572;East
+412;Odessa;United States;Texas;79762;Central
+413;Oklahoma City;United States;Oklahoma;73120;Central
+414;Olathe;United States;Kansas;66062;Central
+415;Olympia;United States;Washington;98502;West
+416;Omaha;United States;Nebraska;68104;Central
+417;Ontario;United States;California;91761;West
+418;Orange;United States;New Jersey;7050;East
+419;Orem;United States;Utah;84057;West
+420;Orland Park;United States;Illinois;60462;Central
+421;Orlando;United States;Florida;32839;South
+422;Ormond Beach;United States;Florida;32174;South
+423;Oswego;United States;Illinois;60543;Central
+424;Overland Park;United States;Kansas;66212;Central
+425;Owensboro;United States;Kentucky;42301;South
+426;Oxnard;United States;California;93030;West
+427;Palatine;United States;Illinois;60067;Central
+428;Palm Coast;United States;Florida;32137;South
+429;Park Ridge;United States;Illinois;60068;Central
+430;Parker;United States;Colorado;80134;West
+431;Parma;United States;Ohio;44134;East
+432;Pasadena;United States;California;91104;West
+433;Pasadena;United States;Texas;77506;Central
+434;Pasco;United States;Washington;99301;West
+435;Passaic;United States;New Jersey;7055;East
+436;Paterson;United States;New Jersey;7501;East
+437;Pearland;United States;Texas;77581;Central
+438;Pembroke Pines;United States;Florida;33024;South
+439;Pensacola;United States;Florida;32503;South
+440;Peoria;United States;Arizona;85345;West
+441;Peoria;United States;Illinois;61604;Central
+442;Perth Amboy;United States;New Jersey;8861;East
+443;Pharr;United States;Texas;78577;Central
+444;Philadelphia;United States;Pennsylvania;19120;East
+445;Philadelphia;United States;Pennsylvania;19134;East
+446;Philadelphia;United States;Pennsylvania;19140;East
+447;Philadelphia;United States;Pennsylvania;19143;East
+448;Phoenix;United States;Arizona;85023;West
+449;Pico Rivera;United States;California;90660;West
+450;Pine Bluff;United States;Arkansas;71603;South
+451;Plainfield;United States;New Jersey;7060;East
+452;Plano;United States;Texas;75023;Central
+453;Plantation;United States;Florida;33317;South
+454;Pleasant Grove;United States;Utah;84062;West
+455;Pocatello;United States;Idaho;83201;West
+456;Pomona;United States;California;91767;West
+457;Pompano Beach;United States;Florida;33068;South
+458;Port Arthur;United States;Texas;77642;Central
+459;Port Orange;United States;Florida;32127;South
+460;Port Saint Lucie;United States;Florida;34952;South
+461;Portage;United States;Indiana;46368;Central
+462;Portland;United States;Oregon;97206;West
+463;Providence;United States;Rhode Island;2908;East
+464;Provo;United States;Utah;84604;West
+465;Pueblo;United States;Colorado;81001;West
+466;Quincy;United States;Illinois;62301;Central
+467;Quincy;United States;Massachusetts;2169;East
+468;Raleigh;United States;North Carolina;27604;South
+469;Rancho Cucamonga;United States;California;91730;West
+470;Rapid City;United States;South Dakota;57701;Central
+471;Reading;United States;Pennsylvania;19601;East
+472;Redding;United States;California;96003;West
+473;Redlands;United States;California;92374;West
+474;Redmond;United States;Oregon;97756;West
+475;Redmond;United States;Washington;98052;West
+476;Redondo Beach;United States;California;90278;West
+477;Reno;United States;Nevada;89502;West
+478;Renton;United States;Washington;98059;West
+479;Revere;United States;Massachusetts;2151;East
+480;Richardson;United States;Texas;75080;Central
+481;Richmond;United States;Indiana;47374;Central
+482;Richmond;United States;Kentucky;40475;South
+483;Richmond;United States;Virginia;23223;South
+484;Rio Rancho;United States;New Mexico;87124;West
+485;Riverside;United States;California;92503;West
+486;Rochester;United States;Minnesota;55901;Central
+487;Rochester;United States;New York;14609;East
+488;Rochester Hills;United States;Michigan;48307;Central
+489;Rock Hill;United States;South Carolina;29730;South
+490;Rockford;United States;Illinois;61107;Central
+491;Rockville;United States;Maryland;20852;East
+492;Rogers;United States;Arkansas;72756;South
+493;Rome;United States;New York;13440;East
+494;Romeoville;United States;Illinois;60441;Central
+495;Roseville;United States;California;95661;West
+496;Roseville;United States;Michigan;48066;Central
+497;Roseville;United States;Minnesota;55113;Central
+498;Roswell;United States;Georgia;30076;South
+499;Round Rock;United States;Texas;78664;Central
+500;Royal Oak;United States;Michigan;48073;Central
+501;Sacramento;United States;California;95823;West
+502;Saginaw;United States;Michigan;48601;Central
+503;Saint Charles;United States;Illinois;60174;Central
+504;Saint Charles;United States;Missouri;63301;Central
+505;Saint Cloud;United States;Minnesota;56301;Central
+506;Saint Louis;United States;Missouri;63116;Central
+507;Saint Paul;United States;Minnesota;55106;Central
+508;Saint Peters;United States;Missouri;63376;Central
+509;Saint Petersburg;United States;Florida;33710;South
+510;Salem;United States;Oregon;97301;West
+511;Salem;United States;Virginia;24153;South
+512;Salinas;United States;California;93905;West
+513;Salt Lake City;United States;Utah;84106;West
+514;San Angelo;United States;Texas;76903;Central
+515;San Antonio;United States;Texas;78207;Central
+516;San Bernardino;United States;California;92404;West
+517;San Clemente;United States;California;92672;West
+518;San Diego;United States;California;92024;West
+519;San Diego;United States;California;92037;West
+520;San Diego;United States;California;92105;West
+521;San Francisco;United States;California;94109;West
+522;San Francisco;United States;California;94110;West
+523;San Francisco;United States;California;94122;West
+524;San Gabriel;United States;California;91776;West
+525;San Jose;United States;California;95123;West
+526;San Marcos;United States;Texas;78666;Central
+527;San Mateo;United States;California;94403;West
+528;Sandy Springs;United States;Georgia;30328;South
+529;Sanford;United States;Florida;32771;South
+530;Santa Ana;United States;California;92704;West
+531;Santa Barbara;United States;California;93101;West
+532;Santa Clara;United States;California;95051;West
+533;Santa Fe;United States;New Mexico;87505;West
+534;Santa Maria;United States;California;93454;West
+535;Scottsdale;United States;Arizona;85254;West
+536;Seattle;United States;Washington;98103;West
+537;Seattle;United States;Washington;98105;West
+538;Seattle;United States;Washington;98115;West
+539;Sheboygan;United States;Wisconsin;53081;Central
+540;Shelton;United States;Connecticut;6484;East
+541;Sierra Vista;United States;Arizona;85635;West
+542;Sioux Falls;United States;South Dakota;57103;Central
+543;Skokie;United States;Illinois;60076;Central
+544;Smyrna;United States;Georgia;30080;South
+545;Smyrna;United States;Tennessee;37167;South
+546;South Bend;United States;Indiana;46614;Central
+547;Southaven;United States;Mississippi;38671;South
+548;Sparks;United States;Nevada;89431;West
+549;Spokane;United States;Washington;99207;West
+550;Springdale;United States;Arkansas;72762;South
+551;Springfield;United States;Missouri;65807;Central
+552;Springfield;United States;Ohio;45503;East
+553;Springfield;United States;Oregon;97477;West
+554;Springfield;United States;Virginia;22153;South
+555;Sterling Heights;United States;Michigan;48310;Central
+556;Stockton;United States;California;95207;West
+557;Suffolk;United States;Virginia;23434;South
+558;Summerville;United States;South Carolina;29483;South
+559;Sunnyvale;United States;California;94086;West
+560;Superior;United States;Wisconsin;54880;Central
+561;Tallahassee;United States;Florida;32303;South
+562;Tamarac;United States;Florida;33319;South
+563;Tampa;United States;Florida;33614;South
+564;Taylor;United States;Michigan;48180;Central
+565;Tempe;United States;Arizona;85281;West
+566;Texarkana;United States;Arkansas;71854;South
+567;Texas City;United States;Texas;77590;Central
+568;The Colony;United States;Texas;75056;Central
+569;Thomasville;United States;North Carolina;27360;South
+570;Thornton;United States;Colorado;80229;West
+571;Thousand Oaks;United States;California;91360;West
+572;Tigard;United States;Oregon;97224;West
+573;Tinley Park;United States;Illinois;60477;Central
+574;Toledo;United States;Ohio;43615;East
+575;Torrance;United States;California;90503;West
+576;Trenton;United States;Michigan;48183;Central
+577;Troy;United States;New York;12180;East
+578;Troy;United States;Ohio;45373;East
+579;Tucson;United States;Arizona;85705;West
+580;Tulsa;United States;Oklahoma;74133;Central
+581;Tuscaloosa;United States;Alabama;35401;South
+582;Twin Falls;United States;Idaho;83301;West
+583;Tyler;United States;Texas;75701;Central
+584;Urbandale;United States;Iowa;50322;Central
+585;Utica;United States;New York;13501;East
+586;Vacaville;United States;California;95687;West
+587;Vallejo;United States;California;94591;West
+588;Vancouver;United States;Washington;98661;West
+589;Vineland;United States;New Jersey;8360;East
+590;Virginia Beach;United States;Virginia;23464;South
+591;Visalia;United States;California;93277;West
+592;Waco;United States;Texas;76706;Central
+593;Warner Robins;United States;Georgia;31088;South
+594;Warwick;United States;Rhode Island;2886;East
+595;Washington;United States;District of Columbia;20016;East
+596;Waterbury;United States;Connecticut;6708;East
+597;Waterloo;United States;Iowa;50701;Central
+598;Watertown;United States;New York;13601;East
+599;Waukesha;United States;Wisconsin;53186;Central
+600;Wausau;United States;Wisconsin;54401;Central
+601;Waynesboro;United States;Virginia;22980;South
+602;West Allis;United States;Wisconsin;53214;Central
+603;West Jordan;United States;Utah;84084;West
+604;West Palm Beach;United States;Florida;33407;South
+605;Westfield;United States;New Jersey;7090;East
+606;Westland;United States;Michigan;48185;Central
+607;Westminster;United States;California;92683;West
+608;Wheeling;United States;Illinois;60090;Central
+609;Wheeling;United States;West Virginia;26003;East
+610;Whittier;United States;California;90604;West
+611;Wichita;United States;Kansas;67212;Central
+612;Wilmington;United States;Delaware;19805;East
+613;Wilmington;United States;North Carolina;28403;South
+614;Wilson;United States;North Carolina;27893;South
+615;Woodbury;United States;Minnesota;55125;Central
+616;Woodland;United States;California;95695;West
+617;Woodstock;United States;Georgia;30188;South
+618;Woodstock;United States;Illinois;60098;Central
+619;Woonsocket;United States;Rhode Island;2895;East
+620;Yonkers;United States;New York;10701;East
+621;York;United States;Pennsylvania;17403;East
+622;Yucaipa;United States;California;92399;West
+623;Yuma;United States;Arizona;85364;West
